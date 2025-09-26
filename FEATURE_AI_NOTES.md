@@ -1,0 +1,1 @@
+Basic clock implementation showing current time and date with auto-updates every second. Uses built-in Date object and intervals.
